@@ -75,7 +75,7 @@ public class App
 
          //declare and add user to db
 
-         User usr = new User("haidi.hany48@gmail.com", "392-noun st.",date, "Haidi", "123450");
+         User usr = new User("haidi.hany48@gmail.com", "Cairo, Eg",date, "Haidi", "123450");
          usr.setDateOfBirth(new Date(04-04-1999));
          usr.setFullName("Haidi Aly");
          usr.setMobile("085000");
