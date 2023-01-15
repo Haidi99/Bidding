@@ -1,0 +1,10 @@
+dao\bidding\BuyerBuyProduct.class
+dao\bidding\Category.class
+dao\bidding\Product.class
+dao\bidding\Seller.class
+dao\bidding\Buyer.class
+dao\bidding\BuyerBidProduct.class
+dao\bidding\BuyerBuyProductId.class
+dao\bidding\BuyerBidProductId.class
+dao\bidding\User.class
+dao\App.class
